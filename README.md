@@ -1,4 +1,6 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=1000&center=True&color=0088cc&font=Ultra&size=25&lines=Hi+there%2C+I'm+Polina+👋🏻)](https://git.io/typing-svg)
+
 I'm a 2nd year student of the Moscow Aviation Institute, Faculty of Computer Science and Applied Mathematics.  
 In addition to the university program, I am currently studying backend-development in Python and testing.
 
@@ -28,4 +30,5 @@ In addition to the university program, I am currently studying backend-developme
 
 #### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TIoJIuHa&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIoJIuHa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://https://github-readme-stats-tiojiuha.vercel.app//api/top-langs/?username=TIoJIuHa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
