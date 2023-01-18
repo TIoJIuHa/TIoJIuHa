@@ -30,5 +30,4 @@ In addition to the university program, I am currently studying backend-developme
 
 #### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TIoJIuHa&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://https://github-readme-stats-tiojiuha.vercel.app//api/top-langs/?username=TIoJIuHa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-tiojiuha.vercel.app//api/top-langs/?username=TIoJIuHa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
