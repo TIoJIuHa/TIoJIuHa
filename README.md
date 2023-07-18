@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=1000&center=True&color=0088cc&font=Ultra&size=25&lines=Hi+there%2C+I'm+Polina+👋🏻)](https://git.io/typing-svg)  
-**I'm a 2nd year student of the Moscow Aviation Institute, Faculty of Computer Science and Applied Mathematics.  
+**I'm a 3rd year student of the Moscow Aviation Institute, Faculty of Computer Science and Applied Mathematics.  
 In addition to the university program, I am currently studying backend-development in Python and testing.**
 
 ### Here you can find me:
