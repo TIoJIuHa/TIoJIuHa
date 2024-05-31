@@ -2,14 +2,7 @@
 **I'm a 3rd year student of the Moscow Aviation Institute, Faculty of Computer Science and Applied Mathematics.  
 In addition to the university program, I am currently studying backend-development in Python and testing.**
 
-### Here you can find me:
 
-<div>
-    <a href="https://t.me/TIoJIuHa">
-        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white"
-        alt="Telegram Badge"/>
-    </a>
-</div>
 
 ### Languages and tools:
 <div>
